@@ -1,0 +1,21 @@
+
+
+.body{
+background-color: aliceblue;
+
+
+}
+
+.container{
+    margin-top :20vh; align-items: center;
+    margin-left: 30%;
+
+
+}
+
+.card {
+    height: auto;
+    width: 50%;
+    border: 1px solid #000;
+    
+}
